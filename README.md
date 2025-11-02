@@ -6,12 +6,15 @@
 
 ---
 
-### 🧠 About Me  
+### 🧠 About Me   
 
-🌱 Currently learning **Spring Boot** and strengthening my **Java backend development** skills.  
-🎯 My goal is to become a proficient **Java Full Stack Developer** and build impactful backend systems.  
-💡 I enjoy learning new technologies and building projects with **Java and Spring Boot**.  
-📈 Passionate about learning, problem-solving, and improving through real-world development experience.  
+🎓 B.Tech in Electronics Engineering (Walchand College of Engineering, Sangli)  
+🌱 Learning Spring Boot and Java Backend Development  
+💻 Building Full Stack Applications with Spring Boot and MySQL  
+🔍 Exploring REST APIs and Microservices  
+📈 Focused on scalable and clean backend systems  
+🏆 Consistent DSA problem solver and backend enthusiast  
+
 
 ---
 
@@ -26,11 +29,12 @@
 </p>
 
 ---
-
 ### 🏅 Achievements  
+
 ⚡ **IEEE TechSangam ‘25 Finalist**  
-🧩 Consistent problem solver on **LeetCode**, **CodeChef**, and **GeeksforGeeks**  
-💡 Passionate about writing clean, efficient, and maintainable backend code  
+🏆 **First Runner-Up – Roboholic ‘25 (Robot Combat)**  
+🧩 **LeetCode 200 Days & 100 Days Streak Badges**  
+🥈 **2★ Coder on CodeChef**
 
 ---
 
@@ -49,14 +53,21 @@
 ### 🧮 Coding Stats  
 
 <p align="center">
-  <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/Yash-997?ext=heatmap&theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
   <br/>
-  <!-- LeetCode Contest Graph -->
   <img src="https://leetcard.jacoblin.cool/Yash-997?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Rating Graph" />
   <br/>
-  <!-- CodeChef Rating Graph -->
-  <img src="https://codechef-api.vercel.app/handle/formaldehyde?theme=dark" alt="CodeChef Rating Graph" />
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-997&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-997&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-997&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
