@@ -56,8 +56,7 @@
   <img src="https://leetcard.jacoblin.cool/Yash-997?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Rating Graph" />
   <br/>
   <!-- CodeChef Rating Graph -->
-  <img src="https://codechef-readme-stats.vercel.app/api/info?user=formaldehyde&theme=dark" alt="CodeChef Profile Info" />
-  <img src="https://codechef-readme-stats.vercel.app/api/contests?user=formaldehyde&theme=dark" alt="CodeChef Contest Graph" />
+  <img src="https://codechef-api.vercel.app/handle/formaldehyde?theme=dark" alt="CodeChef Rating Graph" />
 </p>
 
 ---
