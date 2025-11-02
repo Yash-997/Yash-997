@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Yash-997">Yash Dabhade</a>!</h1>
 
-<!--
-**Yash-997/Yash-997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub!;💻+Full+Stack+Developer;🚀+Java+Developer+(Spring+%26+Spring+Boot);🧩+Problem+Solver" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+
+🌱 Currently learning **Spring Boot** and strengthening my **Java backend development** skills.  
+🎯 My goal is to become a proficient **Java Full Stack Developer** and build impactful backend systems.  
+💡 I enjoy learning new technologies and building projects with **Java and Spring Boot**.  
+📈 Passionate about learning, problem-solving, and improving through real-world development experience.  
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,mysql,git,github,linux,html,css" height="80" alt="Languages" />
+  <br/>
+  <!-- Frameworks / Tools -->
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,idea,arduino,raspberrypi" height="80" alt="Frameworks and Tools" />
+</p>
+
+---
+
+### 🏅 Achievements  
+⚡ **IEEE TechSangam ‘25 Finalist**  
+🧩 Consistent problem solver on **LeetCode**, **CodeChef**, and **GeeksforGeeks**  
+💡 Passionate about writing clean, efficient, and maintainable backend code  
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-dabhade"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Yash-997/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/formaldehyde"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/yashdabhade/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://github.com/Yash-997"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧮 Coding Stats  
+
+<p align="center">
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/Yash-997?ext=heatmap&theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
+  <br/>
+  <!-- LeetCode Contest Graph -->
+  <img src="https://leetcard.jacoblin.cool/Yash-997?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Rating Graph" />
+  <br/>
+  <!-- CodeChef Rating Graph -->
+  <img src="https://codechef-readme-stats.vercel.app/api/info?user=formaldehyde&theme=dark" alt="CodeChef Profile Info" />
+  <img src="https://codechef-readme-stats.vercel.app/api/contests?user=formaldehyde&theme=dark" alt="CodeChef Contest Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash-997&theme=onestar&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <i>✨ "Write code that scales, performs, and inspires confidence." ✨</i>
+</p>
