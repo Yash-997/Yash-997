@@ -43,7 +43,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-dabhade"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Yash-997/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/formaldehyde"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/yashdabhade/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://github.com/Yash-997"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
 </p>
