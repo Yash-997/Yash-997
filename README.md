@@ -33,7 +33,7 @@
 
 ⚡ **IEEE TechSangam ‘25 Finalist**  
 🏆 **First Runner-Up – Roboholic ‘25 (Robot Combat)**  
-🧩 **LeetCode 200 Days & 100 Days Streak Badges**  
+🧩 **Solved Over 1000+ DSA Questions**  
 
 ---
 
